@@ -1,1 +1,0 @@
-# Write your solution for algorithm 3 below
